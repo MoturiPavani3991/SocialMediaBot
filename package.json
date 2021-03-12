@@ -1,0 +1,17 @@
+{
+  "name": "smb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "facebook-chat-api": "^1.5.1",
+    "fb-messenger": "^1.2.0",
+    "request": "^2.85.0"
+  }
+}
